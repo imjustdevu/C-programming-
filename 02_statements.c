@@ -25,6 +25,6 @@
 
     printf("Hello World"); // This statement prints "Hello World" to the console.
     printf("Welcome to C programming"); // This statement prints "Welcome to C programming" to the console.
-    
+
 
 */
