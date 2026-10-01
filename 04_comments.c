@@ -19,5 +19,3 @@
 
     multi line comments start with forward slash and asterisk /* and 
     end with asterisk and forward slash */
-
-*/
